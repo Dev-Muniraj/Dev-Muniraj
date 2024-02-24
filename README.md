@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Muniraj</h1>
+<h1 align="center">Hello 👋, I'm Muniraj</h1>
 <h3 align="center">A passionate frontend developer from Bangalore, India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **rmuni936@gmail.com**
 
 - ⚡ Fun fact **Keeps active everyone by making some fun.**
+  
+- Familiar skills **C/C++ , HTML5 , Php , Flutter , Dart.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
