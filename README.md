@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-muniraj&label=Profile%20views&color=0e75b6&style=flat" alt="dev-muniraj" /> </p>
 
-<p align="left"> <a href="https://x.com/Dev_Muniraj?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/Dev_Muniraj?logo=twitter&style=for-the-badge" alt="Muni_" /></a> </p>
+<p align="left"> <a href="https://x.com/Dev_Muniraj?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/Muni_?logo=twitter&style=for-the-badge" alt="Muni_" /></a> </p>
 
 - 🔭 I’m currently working @ **Parakozm Zeba Academy**
 
