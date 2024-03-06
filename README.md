@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ms_hunts" target="blank"><img src="https://img.shields.io/twitter/follow/ms_hunts?logo=twitter&style=for-the-badge" alt="ms_hunts" /></a> </p>
 
-- 🔭 I’m currently working on **Parakozm Zeba Academy**
+- 🔭 I’m currently working @ **Parakozm Zeba Academy**
 
 - 🌱 I’m currently learning **Flutter , Dart.**
 
-- 💬 Ask me about **Flutter Front End and basic Photos & Videos Editing**
+- 💬 Ask me about **Flutter Front End UI and basic Photos & Videos Editing**
 
 - 📫 How to reach me **rmuni936@gmail.com**
 
